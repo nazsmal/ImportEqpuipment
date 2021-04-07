@@ -1,0 +1,1 @@
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\installUtil.exe /u Lims_Eqp_Import.exe
